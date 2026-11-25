@@ -4,7 +4,7 @@ This repository contains professional documents and career-related materials.
 
 ## Repository Contents
 
-- `SierraArcher_TechnicalResume.pdf` – Current technical resume.
+[View Resume PDF](SierraArcher_TechnicalResume.pdf)
 
 ## Purpose
 
